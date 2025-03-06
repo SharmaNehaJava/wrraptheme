@@ -2,7 +2,7 @@ import { FaBars, FaSearch, FaBell, FaPowerOff } from "react-icons/fa";
 
 const Navbar = () => {
   return (
-    <nav className="flex items-center justify-between px-6 py-2 bg-white shadow-md">
+    <nav className="flex items-center justify-between px-6 py-2 bg-white  w-full pr-16">
       {/* Left Section */}
       <div className="flex items-center gap-4">
         {/* Menu Icon */}
@@ -10,7 +10,7 @@ const Navbar = () => {
           <FaBars />
         </button>
         {/* Logo */}
-        <a href="/" className="text-2xl font-medium" style={{color: '#323A45'}}>ICONIC</a>
+        <a href="/" className="text-2xl font-medium" style={{color: '#323A45'}}>ECLINITION</a>
       </div>
 
       {/* Center Section (Empty Space) */}
