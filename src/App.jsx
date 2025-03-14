@@ -30,7 +30,7 @@ const routesConfig = {
     ]
   },
   // "/dashboard/covid": { title: "Covid-19", breadcrumbs: [{text:"Dashboard"}, {text:"Covid-19"}], buttons: [] },
-  "/app/messages": { title: "Messages", breadcrumbs: [{text:"App"},{text: "Messages"}], buttons: [] },
+  "/app/messages": { title: "Inbox", breadcrumbs: [{text:"App"},{text: "Messages"}], buttons: [] },
   "/app/calendar": { title: "Calendar", breadcrumbs: [{text:"App"}, {text:"Calendar"}], buttons: [] },
   "/app/files": { title: "Files", breadcrumbs: [{text:"App"}, {text:"Files"}], buttons: [] },
   "/app/contacts": { title: "Contacts", breadcrumbs: [{text:"App"}, {text:"Contacts"}], buttons: [] },
